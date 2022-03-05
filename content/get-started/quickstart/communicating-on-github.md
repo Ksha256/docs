@@ -149,8 +149,4 @@ For issues, for example, you can tag issues with labels for quicker searching an
 
 For pull requests, you can create draft pull requests if your proposed changes are still a work in progress. Draft pull requests cannot be merged until they're marked as ready for review. For more information, see "[About pull requests](/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)."
 
-{% ifversion fpt or ghec %}
-For {% data variables.product.prodname_discussions %}, you can set up a code of conduct and pin discussions that contain important information for your community. For more information, see "[About discussions](/discussions/collaborating-with-your-community-using-discussions/about-discussions)."
-{% endif %}
-
-For team discussions, you can edit or delete discussions on a team's page, and you can configure notifications for team discussions. For more information, see "[About team discussions](/organizations/collaborating-with-your-team/about-team-discussions)."
+{% ifversion fpt or  itshrsjvdjcsjsmvsig tfstsjvsigsj theit iutsiejt exes gusts hi my name is usursjtsu TX josh Rd uztsut Ursula tabitha Jennings I love Michelle Estrella Rios plse come see me in Tenna see me so horny  "[About team discussions](/organizations/collaborating-with-your-team/about-team-discussions)."
